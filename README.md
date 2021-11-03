@@ -1,6 +1,6 @@
 # IndicatorSeekBar
 
-
+[![](https://jitpack.io/v/Blankyn/indicatorseekbar.svg)](https://jitpack.io/#Blankyn/indicatorseekbar)
 
 这是一个安卓自定义SeekBar库。 
 
